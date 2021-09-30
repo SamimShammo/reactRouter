@@ -1,0 +1,15 @@
+.visit{
+    font-weight: bold;
+    color: white;
+    background-color:blue;
+    transition: .5s;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.visit:hover{
+    font-weight: bold;
+    color: white;
+    background-color:blue;
+    transition: .5s;
+}
